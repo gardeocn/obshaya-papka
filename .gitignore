@@ -1,0 +1,17 @@
+# Runtime data and logs
+SharedFiles/
+share-debug.log
+share-errors.log
+share-console.log
+.upload-*.tmp
+
+# Local machine/user configuration
+settings.json
+*.user
+*.local
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
